@@ -1,0 +1,14 @@
+# Laragon / XAMPP
+/www/
+
+# Logs & Temp
+*.log
+*.tmp
+*.bak
+error_log
+
+# Editor
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
